@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\bin\Debug\p.ı_works.exe.config
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\bin\Debug\p.ı_works.exe
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\bin\Debug\p.ı_works.pdb
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.Form1.resources
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.exe
+c:\users\emre\documents\visual studio 2015\Projects\p.ı_works\p.ı_works\obj\Debug\p.ı_works.pdb
